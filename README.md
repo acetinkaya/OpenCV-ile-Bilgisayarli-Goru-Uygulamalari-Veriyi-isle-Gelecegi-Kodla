@@ -94,4 +94,4 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 2. Tema Rengini değiştirmek istiyorsakta aynı tuş kombinasyonundan "Tema" Rengi bölümüne gidilerek değişiklikler istege göre yapılabilir.
 
-3. 
+3. Harddiskin bir bölümünde "Goruntu_Isleme_Dersleri" isimli bir klasör oluşturun.
