@@ -125,3 +125,5 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/ak%C4%B1ll%C4%B1guvenlik.png)
 
 11. Ayarı yaptıktan sonra terminalden "uv pip install numpy matplotlib pillow opencv-python opencv-contrib-python ipykernel" komutu ile kurulumlar gerçekleştirilmektedir. 
+
+![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/kutuphanaler.png)
