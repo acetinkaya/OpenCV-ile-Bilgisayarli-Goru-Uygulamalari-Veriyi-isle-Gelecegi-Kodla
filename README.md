@@ -100,6 +100,8 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 5. VS Code ana ekranından uzantılar kısmından "python" yazılarak eklenti yüklenmelidir. python kurulumu yaparken aşağıdaki ekran gelmektedir. Onayınız ile işlemlere devam ediniz. 
 
+![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/python-uv.png)
 
+6. VS Code Terminal Menüsünden "Yeni Terminal" diyerek kurulumlara devam ediyorz.
 
-6. 
+7. 
