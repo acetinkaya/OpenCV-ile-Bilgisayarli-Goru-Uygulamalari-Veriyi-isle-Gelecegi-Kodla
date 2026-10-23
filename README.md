@@ -176,3 +176,4 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
+![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/ilk-kod-ciktisi.png)
