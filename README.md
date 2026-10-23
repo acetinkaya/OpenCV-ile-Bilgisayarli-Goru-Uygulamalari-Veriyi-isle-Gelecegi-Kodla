@@ -39,19 +39,6 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 # 🛠️ Ders Kapsamında Kullanacağımız Platformlar ve Kurulumlar
 
-Bu derste geliştireceğimiz projeler, versiyon kontrolü ve kodlama ortamımız için aşağıdaki platformlara kaydolmanız ve araçları indirmeniz gerekmektedir. Kayıt işlemlerini tercihen **öğrenci e-posta adresleriniz** (`.edu` / `.edu.tr`) ile yapmanız önerilir.
-
-| Platform / Araç | Açıklama | Kayıt & İndirme Bağlantısı | Önerilen E-Posta |
-| :--- | :--- | :---: | :---: |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | **Versiyon Kontrolü & Proje Deposu:** Kodlarımızı yedeklemek ve portfolyo oluşturmak için kullanılacaktır. | [github.com/signup](https://github.com/signup) | Kişisel / Öğrenci E-postası *(Free Student Pack için)* |
-| ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | **Kod Editörü:** Python programlama dilini kullanarak ve Görüntü İşleme projelerimizi geliştireceğimiz ana ortamdır. | [code.visualstudio.com](https://code.visualstudio.com/) | Kişisel / Öğrenci E-postası |
-
-> 💡 **Önemli Not:** GitHub hesabınızı oluşturduktan sonra [GitHub Student Developer Pack](https://education.github.com/pack) sayfasına öğrenci e-postanız ile başvurarak gelişmiş geliştirici araçlarına ücretsiz erişim sağlayabilirsiniz.
-
-----
-
-### 📷 Platform Arayüz Önizlemeleri
-
 <p float="left">
   <img src="https://raw.githubusercontent.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/main/github.jpeg" width="300" height="300" alt="GitHub Kayıt Sayfası" style="object-fit: cover;" />
   <img src="https://raw.githubusercontent.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/main/Vscode.png" width="300" height="300" alt="VS Code İndirme Sayfası" style="object-fit: cover;" />
