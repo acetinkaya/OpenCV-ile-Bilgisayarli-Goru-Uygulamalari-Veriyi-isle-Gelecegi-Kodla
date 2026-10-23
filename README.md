@@ -62,7 +62,7 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
             <img src="https://raw.githubusercontent.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/main/github.jpeg" width="300" height="300" alt="GitHub Kayıt Ol" style="object-fit: cover; border-radius: 8px;" />
           </a>
           <br/><br/>
-          👉 <b><a href="https://github.com/signup" target="_blank">GitHub Kayıt Ol (github.com/signup)</a></b>
+          👉 <b><a href="https://github.com" target="_blank">GitHub Kayıt Ol (github.com/signup)</a></b>
         </td>
         <td align="center" valign="top">
           <p>Python, C++ ve Görüntü İşleme projelerimizi geliştireceğimiz ana ortam.</p>
