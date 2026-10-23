@@ -85,3 +85,7 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/VSCode_Kurulum_1.png)
 
 ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/VScode_ilk_ekran.png)
+
+---
+
+1. İlk Ekran Geldikten Sonra: Ana Ekranda Klavyeden "Ctrl + Shift + P" tuşlarına aynı anda basıp gelen menuden "Configure Display Language" Türkçe Dil Paketi yüklenebilir. Yazılımın orjinali İngilizce dil paketlidir. 
