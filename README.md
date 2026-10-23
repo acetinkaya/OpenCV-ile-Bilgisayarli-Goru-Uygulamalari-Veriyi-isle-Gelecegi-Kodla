@@ -110,4 +110,6 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/un-venv.png)
 
-9. 
+9. Sanal Ortamı Aktifleştirmek için terminale -> ".\.venv\Scripts\activate" yazılmalıdır. ve aşağıdaki gibi ekran çıktısı elde edilmektedir.
+
+10. 
