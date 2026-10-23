@@ -79,3 +79,5 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 </div>
 
 ---
+
+# VS Code Kurulumu
