@@ -34,3 +34,13 @@ Eğitmen: Ali Çetinkaya
 Akademik Koordinatör: Prof. Dr. Bahtiyar Dursun   
 
 Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersleri yalnızca izlemeyecek, kendi bilgisayarlarında projeleri birebir geliştirecek. Eğitim sonunda katılımcıların, görüntü işleme projelerini uçtan uca tasarlayıp hayata geçirebilecek bilgi ve deneyime sahip olması hedefleniyor.
+
+----
+
+# Dersimiz noktasında ilerleyeceğimiz ve kullanacağımız platformlar: 
+
+Aşağıdaki platformlara Öğrenci Mail adresleriyle veya normal mail adresleri ile üye olmalısınız
+
+1. GitHub Hesabı -> https://github.com/  
+2. VS Code -> https://code.visualstudio.com/ 
+
