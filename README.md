@@ -161,8 +161,8 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
         cv2.circle(img, (200, 150), 60, (0, 255, 0), -1)  # Yeşil Daire
         cv2.putText(
             img,
-            "OpenCV Ready!",
-            (110, 260),
+            "@danismanliogrenme 2026",
+            (50, 260),
             cv2.FONT_HERSHEY_SIMPLEX,
             0.8,
             (255, 255, 255),
@@ -170,7 +170,7 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
         )
         
         # Pencerede Gösterme
-        cv2.imshow("OpenCV Demo Test Penceresi - 2026 Workshop", img)
+        cv2.imshow("Goruntu isleme Workshop @2026", img)
         print("\n💡 Ekrana test penceresi açıldı. Kapatmak için pencere seçiliyken bir tuşa basın...")
         
         cv2.waitKey(0)
