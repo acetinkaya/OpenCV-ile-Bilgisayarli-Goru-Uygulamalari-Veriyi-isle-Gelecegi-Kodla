@@ -104,4 +104,8 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 6. VS Code Terminal Menüsünden "Yeni Terminal" diyerek kurulumlara devam ediyorz.
 
-7. İlk defa sanal ortam oluşturmak için (.venv), gelen terminal ekranına "uv venv" yazılmalıdır. 
+7. İlk defa sanal ortam oluşturmak için (.venv), gelen terminal ekranına "uv venv" yazılmalıdır. Bu işlemde hata alınması normaldir. VS Code'yi kapatıp yeniden çalıştırın.
+
+8. Tekrar VS Code çalıştırıldığında "uv venv" yazın ve aşağıdaki çıktıyı elde etmiş olacağız.
+
+9. 
