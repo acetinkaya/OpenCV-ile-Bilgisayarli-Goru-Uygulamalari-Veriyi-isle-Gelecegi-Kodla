@@ -98,4 +98,8 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 4. Dosya menusunden "Klasor Ac" diyerek ilgili klasörün yüklendiği kısma ulasırız. Klasor yolu seciminden VS Code size bu dosyada uyarı verecektir. O kısımda bu dosyaya güven diye seciniz.
 
-5. 
+5. VS Code ana ekranından uzantılar kısmından "python" yazılarak eklenti yüklenmelidir. python kurulumu yaparken aşağıdaki ekran gelmektedir. Onayınız ile işlemlere devam ediniz. 
+
+
+
+6. 
