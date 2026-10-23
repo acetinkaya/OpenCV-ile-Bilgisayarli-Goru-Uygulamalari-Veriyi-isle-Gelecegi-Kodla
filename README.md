@@ -2,6 +2,7 @@
 
 OpenCV ile Bilgisayarlı Görü Uygulamaları | Uygulamalı Görüntü İşleme Workshop
 
-![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/Afis1.jpeg)
+<img src="https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/Afis1.jpeg" alt="alternatif metin" height="800" width="500">
 
-<img src="https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/Afis1.jpeg" alt="alternatif metin" width="500" height="800">
+<!-- ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/Afis1.jpeg) --->
+
