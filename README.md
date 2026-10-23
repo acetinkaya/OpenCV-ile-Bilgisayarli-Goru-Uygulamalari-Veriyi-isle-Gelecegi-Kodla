@@ -114,7 +114,7 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/active.png)
 
-10. Kütüphanelerin kurulumlarına ister 1. komut ve 2. komut ile devam edelim. Burada windows güvenlik duvarından akıllı uygulama denetim kısmını kapalı hale getirilmesi gerekiyor. Yapmazsak aşağıdaki gibi hata alırız.
+10. Kütüphanelerin kurulumlarına ister 1. komut ve 2. komut ile devam edelim. Burada windows güvenlik duvarından akıllı uygulama denetim kısmını kapalı hale getirilmesi gerekiyor. Yapmazsak aşağıdaki gibi hata alırız. Windows güvenlik ayarlarını yaptıktan sonra VS Code'yi kapatıp tekrardan başlatılması gerekmektedir. 
 
 "uv pip install numpy matplotlib pillow opencv-python opencv-contrib-python scikit-image ipykernel"
 
