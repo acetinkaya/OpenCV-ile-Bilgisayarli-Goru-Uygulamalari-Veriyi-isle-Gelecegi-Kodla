@@ -37,10 +37,15 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 ----
 
-# Dersimiz noktasında ilerleyeceğimiz ve kullanacağımız platformlar: 
+# 🛠️ Ders Kapsamında Kullanacağımız Platformlar ve Kurulumlar
 
-Aşağıdaki platformlara Öğrenci Mail adresleriyle veya normal mail adresleri ile üye olmalısınız
+Bu derste geliştireceğimiz projeler, versiyon kontrolü ve kodlama ortamımız için aşağıdaki platformlara kaydolmanız ve araçları indirmeniz gerekmektedir. Kayıt işlemlerini tercihen **öğrenci e-posta adresleriniz** (`.edu` / `.edu.tr`) ile yapmanız önerilir.
 
-1. GitHub Hesabı -> https://github.com/  
-2. VS Code -> https://code.visualstudio.com/ 
+| Platform / Araç | Açıklama | Kayıt & İndirme Bağlantısı | Önerilen E-Posta |
+| :--- | :--- | :---: | :---: |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | **Versiyon Kontrolü & Proje Deposu:** Kodlarımızı yedeklemek ve portfolyo oluşturmak için kullanılacaktır. | [github.com/signup](https://github.com/signup) | Öğrenci E-postası *(Free Student Pack için)* |
+| ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | **Kod Editörü:** Python programlama dilini kullanarak ve Görüntü İşleme projelerimizi geliştireceğimiz ana ortamdır. | [code.visualstudio.com](https://code.visualstudio.com/) | Kişisel / Öğrenci E-postası |
 
+> 💡 **Önemli Not:** GitHub hesabınızı oluşturduktan sonra [GitHub Student Developer Pack](https://education.github.com/pack) sayfasına öğrenci e-postanız ile başvurarak gelişmiş geliştirici araçlarına ücretsiz erişim sağlayabilirsiniz.
+
+----
