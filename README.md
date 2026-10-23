@@ -58,3 +58,43 @@ Bu derste geliştireceğimiz projeler, versiyon kontrolü ve kodlama ortamımız
 </p>
 
 ----
+<div align="left">
+  <table>
+    <thead>
+      <tr>
+        <th align="center" width="50%">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo" /><br/>
+          <b>Versiyon Kontrolü & Proje Deposu</b>
+        </th>
+        <th align="center" width="50%">
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Logo" /><br/>
+          <b>Geliştirme Ortamı & Kod Editörü</b>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" valign="top">
+          <p>Kodlarımızı yedeklemek, yönetmek ve ödev teslimleri için kullanılacaktır.</p>
+          <p><b>Önerilen E-Posta:</b> Öğrenci E-postası <i>(Free Student Pack için)</i></p>
+          <a href="https://github.com/signup" target="_blank">
+            <img src="https://raw.githubusercontent.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/main/github.jpeg" width="300" height="300" alt="GitHub Kayıt Ol" style="object-fit: cover; border-radius: 8px;" />
+          </a>
+          <br/><br/>
+          👉 <b><a href="https://github.com/signup" target="_blank">GitHub Kayıt Ol (github.com/signup)</a></b>
+        </td>
+        <td align="center" valign="top">
+          <p>Python, C++ ve Görüntü İşleme projelerimizi geliştireceğimiz ana ortam.</p>
+          <p><b>Önerilen E-Posta:</b> Kişisel / Öğrenci E-postası</p>
+          <a href="https://code.visualstudio.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/main/Vscode.png" width="300" height="300" alt="VS Code İndir" style="object-fit: cover; border-radius: 8px;" />
+          </a>
+          <br/><br/>
+          👉 <b><a href="https://code.visualstudio.com/" target="_blank">VS Code İndir (code.visualstudio.com)</a></b>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
