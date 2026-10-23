@@ -90,4 +90,8 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 # Kurulum Detayları
 
-1. İlk Ekran Geldikten Sonra: Ana Ekranda Klavyeden "Ctrl + Shift + P" tuşlarına aynı anda basıp gelen menuden "Configure Display Language" Türkçe Dil Paketi yüklenebilir. Yazılımın orjinali İngilizce dil paketlidir. 
+1. İlk Ekran Geldikten Sonra: Ana Ekranda Klavyeden "Ctrl + Shift + P" tuşlarına aynı anda basıp gelen menuden "Configure Display Language" Türkçe Dil Paketi yüklenebilir. Yazılımın orjinali İngilizce dil paketlidir.
+
+2. Tema Rengini değiştirmek istiyorsakta aynı tuş kombinasyonundan "Tema" Rengi bölümüne gidilerek değişiklikler istege göre yapılabilir.
+
+3. 
