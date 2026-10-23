@@ -94,4 +94,8 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 2. Tema Rengini değiştirmek istiyorsakta aynı tuş kombinasyonundan "Tema" Rengi bölümüne gidilerek değişiklikler istege göre yapılabilir.
 
-3. Harddiskin bir bölümünde "Goruntu_Isleme_Dersleri" isimli bir klasör oluşturun.
+3. Harddiskin bölümünde "Goruntu_Isleme_Dersleri" isimli bir klasör oluşturun.
+
+4. Dosya menusunden "Klasor Ac" diyerek ilgili klasörün yüklendiği kısma ulasırız. Klasor yolu seciminden VS Code size bu dosyada uyarı verecektir. O kısımda bu dosyaya güven diye seciniz.
+
+5. 
