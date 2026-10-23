@@ -4,6 +4,9 @@
 
 <!-- ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/Afis1.jpeg) --->
 
+<table>
+  <tr>
+    <td>
 İlim Yayma Cemiyeti & Alaca Teknoloji Takımı iş birliğiyle İYC Tech Workshop Series kapsamında Görüntü İşleme Workshop’u, katılımcılara bilgisayarlı görünün temellerinden gerçek dünya uygulamalarına uzanan uygulamalı bir öğrenme deneyimi sunuyor.
 
 Bugün otonom araçlardan akıllı şehir sistemlerine, güvenlik kameralarından insansız hava araçlarına kadar pek çok teknoloji görüntüyü “anlayabilen” algoritmalar üzerine kurulmuştur.
@@ -34,3 +37,8 @@ Eğitmen: Ali Çetinkaya
 Akademik Koordinatör: Prof. Dr. Bahtiyar Dursun
 
 Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersleri yalnızca izlemeyecek, kendi bilgisayarlarında projeleri birebir geliştirecek. Eğitim sonunda katılımcıların, görüntü işleme projelerini uçtan uca tasarlayıp hayata geçirebilecek bilgi ve deneyime sahip olması hedefleniyor.
+    </td>
+  </tr>
+</table>
+
+
