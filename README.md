@@ -81,3 +81,5 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 ---
 
 # VS Code Kurulumu
+
+![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/VSCode_Kurulum_1.png)
