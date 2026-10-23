@@ -108,4 +108,6 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 8. Tekrar VS Code çalıştırıldığında "uv venv" yazın ve aşağıdaki çıktıyı elde etmiş olacağız.
 
+![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/un-venv.png)
+
 9. 
