@@ -49,3 +49,12 @@ Bu derste geliştireceğimiz projeler, versiyon kontrolü ve kodlama ortamımız
 > 💡 **Önemli Not:** GitHub hesabınızı oluşturduktan sonra [GitHub Student Developer Pack](https://education.github.com/pack) sayfasına öğrenci e-postanız ile başvurarak gelişmiş geliştirici araçlarına ücretsiz erişim sağlayabilirsiniz.
 
 ----
+
+### 📷 Platform Arayüz Önizlemeleri
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/main/github.jpeg" width="300" height="300" alt="GitHub Kayıt Sayfası" style="object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/main/Vscode.png" width="300" height="300" alt="VS Code İndirme Sayfası" style="object-fit: cover;" />
+</p>
+
+----
