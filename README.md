@@ -39,12 +39,6 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 # 🛠️ Ders Kapsamında Kullanacağımız Platformlar ve Kurulumlar
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/main/github.jpeg" width="300" height="300" alt="GitHub Kayıt Sayfası" style="object-fit: cover;" />
-  <img src="https://raw.githubusercontent.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/main/Vscode.png" width="300" height="300" alt="VS Code İndirme Sayfası" style="object-fit: cover;" />
-</p>
-
-----
 <div align="left">
   <table>
     <thead>
