@@ -114,4 +114,4 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/active.png)
 
-10. 
+10. Kütüphanelerin kurulumlarına "python -m pip install numpy matplotlib pillow opencv-python opencv-contrib-python scikit-image ipykernel" ile devam ediyoruz. 
