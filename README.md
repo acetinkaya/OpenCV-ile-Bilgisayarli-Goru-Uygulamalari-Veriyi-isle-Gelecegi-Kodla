@@ -37,6 +37,23 @@ Program boyunca her konu canlı kodlama ile ilerleyecek. Katılımcılar dersler
 
 ----
 
+OpenCV ile Bilgisayarlı Görü Uygulamaları" workshop eğitim tarih aralıkları   
+
+1.  Ders Günü: 28.10.2026 – Çarşamba 20:00 – 22:00 / 2 Saat   
+2.  Ders Günü: 01.11.2026 – Pazar    20:00 – 22:00 / 2 Saat   
+3.  Ders Günü: 04.11.2026 – Çarşamba 20:00 – 22:00 / 2 Saat   
+4.  Ders Günü: 08.11.2026 – Pazar    20:00 – 22:00 / 2 Saat   
+5.  Ders Günü: 11.11.2026 – Çarşamba 20:00 – 22:00 / 2 Saat   
+6.  Ders Günü: 15.11.2026 – Pazar    20:00 – 22:00 / 2 Saat   
+7.  Ders Günü: 18.11.2026 – Çarşamba 20:00 – 22:00 / 2 Saat   
+8.  Ders Günü: 22.11.2026 – Pazar    20:00 – 22:00 / 2 Saat   
+9.  Ders Günü: 25.11.2026 – Çarşamba 20:00 – 22:00 / 2 Saat      
+10. Ders Günü: 29.11.2026 – Pazar    20:00 – 22:00 / 2 Saat   
+11. Ders Günü: 02.12.2026 – Çarşamba 20:00 – 22:00 / 2 Saat   
+12. Ders Günü: 06.12.2026 – Pazar    20:00 – 22:00 / 2 Saat   
+
+----
+
 # 🛠️ Ders Kapsamında Kullanacağımız Platformlar ve Kurulumlar
 
 <div align="left">
