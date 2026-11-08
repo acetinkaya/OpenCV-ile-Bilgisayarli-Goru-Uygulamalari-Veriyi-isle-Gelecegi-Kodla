@@ -123,7 +123,13 @@ OpenCV ile Bilgisayarlı Görü Uygulamaları" workshop eğitim tarih aralıklar
 
 7. İlk defa sanal ortam oluşturmak için (.venv), gelen terminal ekranına "uv venv" yazılmalıdır. Bu işlemde hata alınması normaldir. VS Code'yi kapatıp yeniden çalıştırın.
 
-8. Tekrar VS Code çalıştırıldığında "uv venv" yazın ve aşağıdaki çıktıyı elde etmiş olacağız.
+        Not: Kurulum anında hata durumunda aşağıdaki kodu terminale yazıp çalıştırınız.
+   
+         powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex
+
+         Kurulum sonrasında VSCODE kapatıp açtıktan sonra hata düzelecekt.r
+   
+9. Tekrar VS Code çalıştırıldığında "uv venv" yazın ve aşağıdaki çıktıyı elde etmiş olacağız.
 
 ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/un-venv.png)
 
