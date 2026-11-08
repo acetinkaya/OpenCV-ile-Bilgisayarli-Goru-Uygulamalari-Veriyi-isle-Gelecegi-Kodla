@@ -197,7 +197,7 @@ OpenCV ile Bilgisayarlı Görü Uygulamaları" workshop eğitim tarih aralıklar
 
 ---
 
-# VS Code & Python Kurulum ve Ortam Hataları Çözüm Rehberi
+# VS Code & Python Kurulum ve Ortam Hataları Çözüm Notlarımız
 
 Bu not ile derslerimiz sırasında Visual Studio Code, Python ortam yönetimi (`uv`) ve kütüphane kurulumlarında karşılaşılan en yaygın hataları ve adım adım çözüm yollarını içermektedir.
 
@@ -215,3 +215,27 @@ Bu not ile derslerimiz sırasında Visual Studio Code, Python ortam yönetimi (`
 
 ```powershell
 powershell -ExecutionPolicy ByPass -c "irm [https://astral.sh/uv/install.ps1](https://astral.sh/uv/install.ps1) | iex"
+```
+
+### 2. OpenCV Modülü Bulunamadı Hatası (ModuleNotFoundError: No module named 'cv2')
+
+**Problem:** Kod çalıştırıldığında Python ortamında OpenCV (cv2) kütüphanesinin yüklü olmamasından veya sanal ortamın algılanmamasından dolayı aşağıdaki hata alınır:
+
+**Çözüm:**
+1. VS Code terminalinde uv kullanıyorsanız--> "uv pip install opencv-python" kullanmıyorsanız--> "python -m pip install opencv-python"
+2. Paket yüklendikten sonra VS Code'da Ctrl + Shift + P (Mac: Cmd + Shift + P) tuşlarına basıp Python: Select Interpreter yazın ve projenizin sanal ortamına ait Python sürümünü (.venv\Scripts\python.exe) seçin.
+
+### 3. Python veya Pip Komutunun Tanınmaması (PATH Onarımı)
+
+**Problem:** Terminale python veya pip yazıldığında sistemin Python'ı bulamaması ('python' is not recognized as an internal or external command).
+
+**Çözüm:** 
+
+1. Windows Başlat menüsünü açıp "Program Ekle veya Kaldır" (Add or remove programs) yazın ve tıklayın.
+2. Açılan listeden yüklü olan Python 3.x sürümünü bulun, yanındaki üç noktaya (veya üzerine) tıklayıp Değiştir (Modify) butonuna basın.
+3. Açılan kurulum penceresinde Modify seçeneğine tıklayın.
+4. Optional Features ekranında hiçbir ayarı değiştirmeden Next deyin.
+5. Advanced Options ekranında "Add Python to environment variables" (veya Add Python to PATH) seçeneğini işaretleyin ve Install butonuna tıklayın.
+6. Kurulum bittiğinde (Setup was successful) VS Code'u kapatıp yeniden açın.
+
+Hepinize kolaylıklar dilerim. 
