@@ -107,6 +107,8 @@ OpenCV ile Bilgisayarlı Görü Uygulamaları" workshop eğitim tarih aralıklar
 
 # Kurulum Detayları
 
+NOT: Kurulum anında alınabilecek olası VS Code & Python ortam hataların çözüm notları aşağıdadır. iyi çalışmalar dilerim.
+
 1. İlk Ekran Geldikten Sonra: Ana Ekranda Klavyeden "Ctrl + Shift + P" tuşlarına aynı anda basıp gelen menuden "Configure Display Language" Türkçe Dil Paketi yüklenebilir. Yazılımın orjinali İngilizce dil paketlidir.
 
 2. Tema Rengini değiştirmek istiyorsakta aynı tuş kombinasyonundan "Tema" Rengi bölümüne gidilerek değişiklikler istege göre yapılabilir.
