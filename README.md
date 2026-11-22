@@ -116,6 +116,8 @@ NOT: Kurulum anında alınabilecek olası VS Code & Python ortam hataların çö
 
 3. Harddiskin bölümünde "Goruntu_Isleme_Dersleri" isimli bir klasör oluşturun.
 
+![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/HarddiskC.png)
+
 4. Dosya menusunden "Klasor Ac" diyerek ilgili klasörün yüklendiği kısma ulasırız. Klasor yolu seciminden VS Code size bu dosyada uyarı verecektir. O kısımda bu dosyaya güven diye seciniz.
 
 5. VS Code ana ekranından uzantılar kısmından "python" yazılarak eklenti yüklenmelidir. python kurulumu yaparken aşağıdaki ekran gelmektedir. Onayınız ile işlemlere devam ediniz. 
@@ -126,7 +128,7 @@ NOT: Kurulum anında alınabilecek olası VS Code & Python ortam hataların çö
 
 7. İlk defa sanal ortam oluşturmak için (.venv), gelen terminal ekranına "uv venv" yazılmalıdır. Bu işlemde hata alınması normaldir. VS Code'yi kapatıp yeniden çalıştırın.
    
-9. Tekrar VS Code çalıştırıldığında "uv venv" yazın ve aşağıdaki çıktıyı elde etmiş olacağız.
+8. Tekrar VS Code çalıştırıldığında "uv venv" yazın ve aşağıdaki çıktıyı elde etmiş olacağız.
 
 ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/un-venv.png)
 
