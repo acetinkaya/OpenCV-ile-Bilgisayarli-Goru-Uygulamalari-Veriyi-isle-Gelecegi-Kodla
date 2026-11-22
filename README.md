@@ -200,6 +200,12 @@ NOT: Kurulum anında alınabilecek olası VS Code & Python ortam hataların çö
 
 ---
 
+![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/D1_goruntunun_anatomisi_gorsel.png)     
+
+![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/D1_renk_uzaylari_gorsel.png)
+
+---
+
 # VS Code & Python Kurulum ve Ortam Hataları Çözüm Notlarımız
 
 Bu not ile derslerimiz sırasında Visual Studio Code, Python ortam yönetimi (`uv`) ve kütüphane kurulumlarında karşılaşılan en yaygın hataları ve adım adım çözüm yollarını içermektedir.
