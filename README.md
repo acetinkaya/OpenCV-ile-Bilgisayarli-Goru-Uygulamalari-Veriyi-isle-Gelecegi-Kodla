@@ -202,6 +202,8 @@ NOT: Kurulum anında alınabilecek olası VS Code & Python ortam hataların çö
 
 ---
 
+![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/BilinenDosyaUzant%C4%B1lar%C4%B1.png)  
+
 ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/D1_goruntunun_anatomisi_gorsel.png)     
 
 ![alternatif metin](https://github.com/acetinkaya/OpenCV-ile-Bilgisayarli-Goru-Uygulamalari-Veriyi-isle-Gelecegi-Kodla/blob/main/D1_renk_uzaylari_gorsel.png)
